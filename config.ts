@@ -1,0 +1,7 @@
+export const CONFIG = {
+  ITEMS_PER_PAGE: 7,
+  TOTAL_USERS: 500,
+  MIN_AGE: 18,
+  MAX_AGE: 65,
+  SEARCH_DEBOUNCE_MS: 300,
+} 
