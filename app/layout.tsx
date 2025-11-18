@@ -20,24 +20,17 @@ export const metadata: Metadata = {
     title: "React Paginate Filter – Smart Pagination & Search",
     description:
       "A powerful React UI component that provides pagination + search filtering in one package. Simple API, customizable, and production-ready.",
-    url: "https://your-demo-url.com",
+    url: "https://demo-paginate-filter.vercel.app",
     siteName: "React Paginate Filter Demo",
     images: [
       {
-        url: "https://your-demo-url.com/og-image.png",
+        url: "https://demo-paginate-filter.vercel.app/user-directory.png",
         width: 1200,
         height: 630,
         alt: "React Paginate Filter Component Preview",
       },
     ],
     type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "React Paginate Filter – Smart Pagination & Search",
-    description:
-      "A lightweight React component for pagination + filtering. Easy to use, customizable, and open-source.",
-    images: ["https://your-demo-url.com/og-image.png"],
   },
 };
 

@@ -16,7 +16,7 @@ export default function Demo() {
 
   useEffect(() => {
     const generateUsers = async () => {
-      await new Promise((resolve) => setTimeout(resolve, 300));
+      await new Promise((resolve) => setTimeout(resolve, 100));
 
       const generated: User[] = Array.from(
         { length: CONFIG.TOTAL_USERS },
